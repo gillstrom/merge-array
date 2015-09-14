@@ -1,6 +1,6 @@
 {
   "name": "merge-array",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Merge arrays in to the first array",
   "license": "MIT",
   "repository": "gillstrom/merge-array",
