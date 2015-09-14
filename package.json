@@ -1,0 +1,37 @@
+{
+  "name": "merge-array",
+  "version": "0.0.0",
+  "description": "Merge arrays in to the first array",
+  "license": "MIT",
+  "repository": "gillstrom/merge-array",
+  "author": {
+    "name": "Andreas Gillström",
+    "email": "andreasgillstrom@gmail.com",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "arr",
+    "array",
+    "blend",
+    "combine",
+    "conc",
+    "concatenate",
+    "fuse",
+    "merge",
+    "mutable",
+    "union"
+  ],
+  "devDependencies": {
+    "ava": "^0.2.0",
+    "xo": "*"
+  }
+}
